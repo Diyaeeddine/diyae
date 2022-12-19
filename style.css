@@ -67,4 +67,5 @@ button {
 }
 button:hover {
   background-image: linear-gradient(to left, #92fbffe6, #faa2ffeb);
+  color: #1d1d1d;
 }
