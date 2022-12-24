@@ -6,7 +6,7 @@
   font-family: "poppins", "Trebuchet MS", sans-serif;
 }
 body {
-  background-image: linear-gradient(to right, #7ebfee, #ff95bd);
+  background-image: linear-gradient(to right, #0084ff, #ff2e7e);
 }
 
 main {
@@ -14,7 +14,7 @@ main {
   height: 500px;
   border-radius: 10px;
   box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.477);
-  background-color: rgba(255, 255, 255, 0.53);
+  background-color: #ffffffa5;
   text-align: center;
   margin-top: 50px;
 }
@@ -66,12 +66,12 @@ button {
   margin: 30px;
   border: none;
   border-radius: 10px;
-  background-image: linear-gradient(to left, #69e8ece6, #f87cffeb);
+  background-image: linear-gradient(to left, #00edf5, #f42bff);
   cursor: pointer;
   font-size: 1.1em;
   font-weight: 600;
 }
 button:hover {
-  background-image: linear-gradient(to left, #92fbffe6, #faa2ffeb);
+  background-image: linear-gradient(to left, #00edf5b5, #f42bffb0);
   color: #1d1d1d;
 }
