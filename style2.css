@@ -73,5 +73,6 @@ button {
 }
 button:hover {
   background-image: linear-gradient(to left, #00edf5b5, #f42bffb0);
+  transition:.3s;
   color: #1d1d1d;
 }
